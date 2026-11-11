@@ -221,3 +221,9 @@ __marimo__/
 
 # Local datasets
 data/
+
+# Local VS Code settings
+.vscode/
+
+# Environment variables
+.env
